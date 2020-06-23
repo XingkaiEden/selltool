@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/selltool/static/css/main.87035b18.chunk.css",
-    "main.js": "/selltool/static/js/main.9fbad1f4.chunk.js",
-    "main.js.map": "/selltool/static/js/main.9fbad1f4.chunk.js.map",
+    "main.js": "/selltool/static/js/main.1fada8d2.chunk.js",
+    "main.js.map": "/selltool/static/js/main.1fada8d2.chunk.js.map",
     "runtime-main.js": "/selltool/static/js/runtime-main.32d4d67a.js",
     "runtime-main.js.map": "/selltool/static/js/runtime-main.32d4d67a.js.map",
     "static/css/2.f049a431.chunk.css": "/selltool/static/css/2.f049a431.chunk.css",
     "static/js/2.4a799c40.chunk.js": "/selltool/static/js/2.4a799c40.chunk.js",
     "static/js/2.4a799c40.chunk.js.map": "/selltool/static/js/2.4a799c40.chunk.js.map",
     "index.html": "/selltool/index.html",
-    "precache-manifest.79270385cea82ded63e2b2fd93242559.js": "/selltool/precache-manifest.79270385cea82ded63e2b2fd93242559.js",
+    "precache-manifest.be701bcff50798ccb08732275dd84a22.js": "/selltool/precache-manifest.be701bcff50798ccb08732275dd84a22.js",
     "service-worker.js": "/selltool/service-worker.js",
     "static/css/2.f049a431.chunk.css.map": "/selltool/static/css/2.f049a431.chunk.css.map",
     "static/css/main.87035b18.chunk.css.map": "/selltool/static/css/main.87035b18.chunk.css.map",
@@ -59,6 +59,6 @@
     "static/css/2.f049a431.chunk.css",
     "static/js/2.4a799c40.chunk.js",
     "static/css/main.87035b18.chunk.css",
-    "static/js/main.9fbad1f4.chunk.js"
+    "static/js/main.1fada8d2.chunk.js"
   ]
 }
