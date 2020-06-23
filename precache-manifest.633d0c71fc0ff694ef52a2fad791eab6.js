@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "185140ba176ab350eda372ec37dfcafd",
+    "revision": "5a904af4d5738de409244d3fbb764b08",
     "url": "/selltool/index.html"
   },
   {
-    "revision": "b2ced37bb1a0620bade1",
+    "revision": "55cd8fd60e194ae327e2",
     "url": "/selltool/static/css/2.f049a431.chunk.css"
   },
   {
-    "revision": "5738984630902b5d6e8c",
+    "revision": "5a63a88961a2983a81ac",
     "url": "/selltool/static/css/main.87035b18.chunk.css"
   },
   {
-    "revision": "b2ced37bb1a0620bade1",
-    "url": "/selltool/static/js/2.4a799c40.chunk.js"
+    "revision": "55cd8fd60e194ae327e2",
+    "url": "/selltool/static/js/2.5f30600d.chunk.js"
   },
   {
     "revision": "ff1ad7bfacfd3d040dd22682a84041b6",
-    "url": "/selltool/static/js/2.4a799c40.chunk.js.LICENSE.txt"
+    "url": "/selltool/static/js/2.5f30600d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5738984630902b5d6e8c",
-    "url": "/selltool/static/js/main.58994758.chunk.js"
+    "revision": "5a63a88961a2983a81ac",
+    "url": "/selltool/static/js/main.227b46b9.chunk.js"
   },
   {
     "revision": "2f74febdaabe9c81021b",
